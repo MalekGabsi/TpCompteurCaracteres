@@ -47,5 +47,7 @@ public class MainAvecExecutor {
             executor.shutdown();
         }
     }
+
+    // avec future , on a plus besoin de join 
 }
 
